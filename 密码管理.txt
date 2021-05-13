@@ -1,0 +1,17 @@
+ecshop前台账户admin2 密码147258369
+      后台账户 admin 密码123456
+
+Github 账户eason-hh 密码wh19970327
+
+GItee 账户eason 密码ali5201314
+
+localhost8080 账户 root 密码admin123
+
+jira管理工具 账户admin 密码itsource.cn
+
+搭建环境 ecshop后台账户admin  密码admin123
+禅道 账户admin 密码 123456
+来客环境  数据库: 用户名root 密码168168 ,前台用户名admin 密码admin123456
+
+ecshop搭建后台 用户名root 密码 168168
+	管理员账户 admin 密码admin123
